@@ -1,4 +1,4 @@
-#Indecision App
+# Indecision App
 Put your life in the hands of a computer.
 
 _A small introduction in to the world of React Developement_.
